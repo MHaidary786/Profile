@@ -1,0 +1,83 @@
+#card {
+    background-color: #2e334e;
+    height: 700px;
+    width: 500px;
+    align-items: center;
+    margin: auto;
+    border-radius: 35px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+    
+
+}
+
+
+h1 {
+    margin-top: 40px;
+}
+
+#name {
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    padding-top: 40px;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+
+
+#insta {
+
+    margin-bottom: 5px;
+}
+
+
+#face {
+
+
+
+}
+
+.social {
+
+    color: white;
+    background-color: rgb(58,59,60);
+    border-radius: 140px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    text-decoration: solid;
+}
+
+
+
+#image {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 50%;
+    align-items: center;
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+
+.content {
+    color: wheat;
+    margin: 30px;
+    text-align: center;
+    font-family: cursive;
+}
